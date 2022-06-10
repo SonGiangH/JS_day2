@@ -1,4 +1,6 @@
-* 3 từ khoá để khai báo biến trong Javascript :
+    ## Từ khoá khai báo biến (variables)
+
+3 từ khoá để khai báo biến trong Javascript :
     1. Let là từ khoá local, chỉ có tác dụng trong 1 khối block code.
     2. var là từ khoá global, có tác dụng trong toàn bộ chương trình, tuỳ theo nhu cầu sử dụng mà có thể dùng var hay let (vì liên quan đến dung lượng bộ nhớ khi xử lý)
     3. const là từ khoá để khai báo biến hằng số.
